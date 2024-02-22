@@ -6,6 +6,8 @@ The design is a modified version of the template "Verti" from [HTML5 UP](https:/
 
 Free for personal and commercial use under the [CCA 3.0 license](html5up.net/license).
 
+The color scheme currently in use is based on [these colors](https://coolors.co/0c1618-004643-f5efed-6c969d-549f93)
+
 ## Credits:
 
 - Template:
